@@ -1,0 +1,15 @@
+
+
+
+.banner{
+background-image: url(images\\1.jpg);
+backgroud-size: cover;
+background-repeat: no-repeat;
+padding: 100px 0;
+}
+
+.image{
+    background-image: url(images\\2.webp);
+
+
+}
